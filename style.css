@@ -1,3 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Inter&display=swap');
-html, body {margin: 0; padding: 0;font-family: 'Inter', sans-serif;}
+html, body {
+  margin: 0; 
+  padding: 0;
+  font-family: 'Inter', sans-serif;}
 canvas {display: block;}
